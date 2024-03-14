@@ -1,0 +1,34 @@
+
+Data Structure
+
+
+Data structure is a struct or organization that enables data to be stored, managed, and accessed in a specific manner. Essentially, 
+data structures determine how data is organized and accessed, facilitating more efficient data processing and management.
+
+Data structures allow various operations (such as insertion, deletion, search, sorting, etc.) to be performed quickly and effectively.
+ Additionally, data structures are typically designed to optimize memory usage, minimizing the cost of data storage and access.
+
+
+
+
+Queue
+
+A queue is a first-in, first-out (FIFO) data structure that supports adding items to the back (enqueue) and removing items from the front (dequeue).
+ Queues are commonly used in scenarios where items are processed in the order they arrive, such as task scheduling or handling web server requests.
+
+Stack
+
+A stack is a last-in, first-out (LIFO) data structure where only the topmost item can be accessed.
+ Stacks allow for simple addition (push) and removal (pop) operations,
+ making them useful for managing data in a specific order, 
+such as managing function calls in a text editor or implementing undo-redo functionality.
+
+
+
+Linked List
+
+
+Linked list is another linear data structure consisting of elements called nodes. 
+Each node stores a data item and a reference (pointer) to the next node. 
+Linked lists can easily expand and contract, allowing dynamic memory allocation,
+ but this comes at the expense of slower item access compared to arrays.
